@@ -6,7 +6,7 @@ import withHoc from "./withHOC";
 function MyComponent({ text }) {
   return (
     <div>
-      <h2>My Component !!!</h2>
+      <h2>My Component with HOC(s)</h2>
       <p>{text}</p>
     </div>
   );
